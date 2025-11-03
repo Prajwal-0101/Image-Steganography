@@ -64,3 +64,16 @@ without noticeable degradation in image quality.
 1. Clone this repository:
    ```bash
    git clone https://github.com/Prajwal-0101/Image-Steganography.git
+
+2. Install dependencies:
+   ```bash
+   Make sure you have Python 3.8+ installed, then run:
+   pip install -r requirements.txt
+
+3. Open the Jupyter Notebook:
+   ```bash
+   jupyter notebook image_steganography.ipynb
+
+4. Run all cells:
+   -Follow the step-by-step implementation inside the notebook.
+   -You can modify the input cover image and secret text to test your own examples.
