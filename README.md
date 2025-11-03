@@ -43,9 +43,7 @@ This project enhances traditional **LSB (Least Significant Bit)** steganography 
 |----------------|--------------------------------------------|
 | ![Original Image](original_image.jpg) | ![Stego Image](stego_image_aes.png) |
 
-The visual difference between the two images is nearly imperceptible,  
-demonstrating that the secret data is hidden securely within the cover image  
-without noticeable degradation in image quality.
+The visual difference between the two images is nearly imperceptible, demonstrating that the secret data is hidden securely within the cover image without noticeable degradation in image quality.
 
 ## 🧠 Technologies Used
 
@@ -75,5 +73,5 @@ without noticeable degradation in image quality.
    jupyter notebook image_steganography.ipynb
 
 4. Run all cells:
-   -Follow the step-by-step implementation inside the notebook.
-   -You can modify the input cover image and secret text to test your own examples.
+   - Follow the step-by-step implementation inside the notebook.  
+   - You can modify the input cover image and secret text to test your own examples.
