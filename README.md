@@ -41,7 +41,7 @@ This project enhances traditional **LSB (Least Significant Bit)** steganography 
 
 | Original Image | Stego Image (After Embedding Secret Text) |
 |----------------|--------------------------------------------|
-| ![Original Image](cover_image.png) | ![Stego Image](stego_image.png) |
+| ![Original Image](original_image.jpg) | ![Stego Image](stego_image_aes.png) |
 
 The visual difference between the two images is nearly imperceptible,  
 demonstrating that the secret data is hidden securely within the cover image  
