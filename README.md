@@ -14,11 +14,11 @@ This project enhances traditional **LSB (Least Significant Bit)** steganography 
 
 ## ⚙️ Key Features
 
-- 🔐 **AES-256 Encryption** of secret text before embedding  
-- 🧠 **Gradient-based edge detection** to identify suitable embedding regions  
-- 🎨 **High-quality stego image** with minimal perceptual distortion  
-- 💬 **Robust retrieval and decryption** process for extracting hidden text  
-- 💻 Implemented entirely in **Python (Jupyter Notebook)**
+-  **AES-256 Encryption** of secret text before embedding  
+-  **Gradient-based edge detection** to identify suitable embedding regions  
+-  **High-quality stego image** with minimal perceptual distortion  
+-  **Robust retrieval and decryption** process for extracting hidden text  
+-  Implemented entirely in **Python (Jupyter Notebook)**
 
 ---
 
