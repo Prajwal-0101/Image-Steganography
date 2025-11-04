@@ -12,7 +12,7 @@ This project enhances traditional **LSB (Least Significant Bit)** steganography 
 
 ---
 
-## ⚙️ Key Features
+## ✨ Key Features
 
 -  **AES-256 Encryption** of secret text before embedding  
 -  **Gradient-based edge detection** to identify suitable embedding regions  
@@ -22,7 +22,7 @@ This project enhances traditional **LSB (Least Significant Bit)** steganography 
 
 ---
 
-## 🧩 Methodology
+## 🧠 Methodology
 
 1. **Edge Detection:**  
    The gradient method is applied to identify strong edges in the cover image.
@@ -45,7 +45,7 @@ This project enhances traditional **LSB (Least Significant Bit)** steganography 
 
 The visual difference between the two images is nearly imperceptible, demonstrating that the secret data is hidden securely within the cover image without noticeable degradation in image quality.
 
-## 🧠 Technologies Used
+## ⚙️ Technologies Used
 
 - **Python**
 - **NumPy**
